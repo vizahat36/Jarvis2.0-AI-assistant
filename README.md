@@ -38,13 +38,18 @@ Welcome to **Jarvis 2.0**, an intelligent, voice-controlled AI assistant designe
 
 ## 📸 Screenshots
 
-|           Wake up prompt           |                Schedule tasks               |                Focus mode                |
+|           Intro Image              |                Wake up prompt               |                Schedule tasks            |
 | :--------------------------------: | :-----------------------------------------: | :--------------------------------------: |
-| ![WakeUp](screenshots/wake_up.png) | ![Schedule](screenshots/schedule_tasks.png) | ![FocusMode](screenshots/focus_mode.png) |
+| ![Intro](![![1j](https://github.com/user-attachments/assets/4ebe9b5d-c919-4699-a983-5a9baab0d3fb)
+]()
+) | ![WakeUp](![wakeupJ](https://github.com/user-attachments/assets/678b5bb9-3397-4147-86e7-c9bd33c2f7d8)
+) | ![Schedule](![notfiction](https://github.com/user-attachments/assets/2c9fddf5-86bf-4924-8436-a2990381a163)
+) |
 
-|             IPL Scores            |            Weather Update           |            Alarm Set            |
-| :-------------------------------: | :---------------------------------: | :-----------------------------: |
-| ![IPL](screenshots/ipl_score.png) | ![Weather](screenshots/weather.png) | ![Alarm](screenshots/alarm.png) |
+|             match Scores            
+| :-------------------------------: | 
+| ![IPL](![match score](https://github.com/user-attachments/assets/9ecd9b24-3e97-47f8-8381-7db1b2fe022a)
+) 
 
 ---
 
