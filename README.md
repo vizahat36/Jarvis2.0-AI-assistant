@@ -23,12 +23,14 @@ Welcome to **Jarvis**, your intelligent voice-powered AI assistant that automate
 
 ## 🎬 Demo Preview
 
+Experience a full walkthrough of Jarvis 2.0 in action, recorded live in VS Code!
+
 <div align="center">
 
-<!-- Replace VIDEO_ID with your YouTube video ID -->
-[![Watch Jarvis in Action]()
+[![Watch Demo](https://img.shields.io/badge/Demo-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1j0gOaRNGIaHvM9mSYFXQ4A1IBNV5F8g9/view?usp=drive_link)
 
 </div>
+
 
 ---
 
