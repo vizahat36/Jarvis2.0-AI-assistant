@@ -50,6 +50,7 @@ Welcome to **Jarvis 2.0**, an intelligent, voice-controlled AI assistant designe
 | :-------------------------------: | 
 | ![IPL](![match score](https://github.com/user-attachments/assets/9ecd9b24-3e97-47f8-8381-7db1b2fe022a)
 ) 
+![match score](https://github.com/user-attachments/assets/787ca2d6-3f20-4fd7-8b2d-efad18023bbe)
 
 ---
 
