@@ -12,9 +12,8 @@ Welcome to **Jarvis 2.0**, your intelligent voice-powered AI assistant that help
 🎯 **Focus Mode** — One command for a distraction-free workspace  
 🎵 **Multimedia Control** — Play/pause/mute and volume control  
 🌦️ **Live Weather & Temperature** — Real-time updates  
-🏏 **IPL Score Updates** — Stay updated with live cricket scores  
+🏏 **Match Score Updates** — Stay updated with live cricket scores  
 📸 **Screenshot & Photo Capture** — Hands-free capture  
-⏰ **Alarm Setting** — Set alarms by voice  
 🔍 **Web Search** — YouTube, Google, Wikipedia, News  
 💬 **WhatsApp Messaging** — Send messages via voice  
 🔁 **Change Password** — Update Jarvis access password  
@@ -30,6 +29,7 @@ Welcome to **Jarvis 2.0**, your intelligent voice-powered AI assistant that help
 [![Watch Jarvis in Action](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 </div>
+![1j](https://github.com/user-attachments/assets/f1120fce-682d-44f3-96db-578b187ddce5)
 
 ---
 
