@@ -1,6 +1,6 @@
-# 🤖 Jarvis 2.0 — Your Personal AI Assistant
+# 🤖 Jarvis — Your Personal AI Assistant
 
-Welcome to **Jarvis 2.0**, your intelligent voice-powered AI assistant that automates daily tasks, keeps you updated, and interacts just like your own digital butler.
+Welcome to **Jarvis**, your intelligent voice-powered AI assistant that automates daily tasks, keeps you updated, and interacts just like your own digital butler.
 
 ---
 
